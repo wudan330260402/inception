@@ -20,4 +20,3 @@ https://qunarcorp.github.io/inception/
 ### 王竹峰
 
 * 邮箱：qunar-open@qunar.com
-* Inception讨论QQ群：185803996
